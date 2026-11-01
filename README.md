@@ -42,6 +42,6 @@ Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce (values in 
 ## Instructor
 Adham Osama 
 ## Project Files
-- Power BI dashboard (.pbix): [Google Drive link]
-- Final report and presentation: [Google Drive link]
+- Power BI dashboard (.pbix): https://drive.google.com/drive/folders/1tnbPPsgNcI1wAN8ZZNZbMBG5REAXDFMs?usp=sharing
+- Final report and presentation: https://drive.google.com/drive/folders/1tnbPPsgNcI1wAN8ZZNZbMBG5REAXDFMs?usp=sharing
 - Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce

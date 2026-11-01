@@ -14,7 +14,8 @@ Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce (values in 
 - سلمى حسام الدين فتحي سليمان
 - احمد شعبان محمد
 - ايه فضل
-عبدالله ايمن leader 
+- عبدالله ايمن leader 
+
 ## Work Plan
 - Week 1: Data cleaning and preprocessing (Power Query)
 - Week 2: Defining analysis questions and building the data model

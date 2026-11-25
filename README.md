@@ -1,47 +1,48 @@
-# Olist E-Commerce Delivery & Sales Analysis
+# RYStore Retail Sales & Performance Analysis
 
 ## Project Name
-Olist E-Commerce Delivery & Sales Analysis
+RYStore Retail Sales & Performance Analysis
 
 ## Project Idea
-Analyzing about 99K real orders from a Brazilian e-commerce marketplace (Olist, 2016–2018) to understand how delivery delays affect customer reviews, which states, categories and sellers drive revenue, and how customers pay. The results are presented in an interactive Power BI dashboard.
+An end-to-end retail data analysis project on the RYStore dataset to uncover revenue and profit trends, evaluate product category and branch performance, and understand customer purchasing behavior. We utilized **Excel, SQL, and Python** for data cleaning, querying, and exploratory analysis, and built interactive dashboards using **Power BI and Tableau** to support data-driven business decisions.
 
-Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce (values in Brazilian Real, BRL)
+Dataset: https://github.com/ryanariefe/RYStore-Retail-Dataset
 
 ## Team Members
+- عبدالله ايمن (Leader)
 - مريم كريم احمد
 - محمود محمد صلاح احمد
 - سلمى حسام الدين فتحي سليمان
 - احمد شعبان محمد
 - ايه فضل
-- عبدالله ايمن leader 
 
 ## Work Plan
-- Week 1: Data cleaning and preprocessing (Power Query)
-- Week 2: Defining analysis questions and building the data model
-- Week 3: Building the Power BI dashboard
-- Week 4: Final report and presentation
+- Week 1: Data cleaning, initial exploration, and preprocessing (**Excel & Python**)
+- Week 2: Database querying, data modeling, and business questions analysis (**SQL**)
+- Week 3: Building interactive dashboards and visual storytelling (**Power BI & Tableau**)
+- Week 4: Final report, insights consolidation, and presentation
 
 ## Roles & Responsibilities
 | Member | Role |
 |---|---|
-|  Data cleaning (Power Query) |
-| Data model and DAX measures |
-|| Dashboard design |
-| Analysis questions and insights |
-| Final report and presentation |
+| عبدالله ايمن | Project Leader, Data Modeling & Power BI Dashboard |
+| مريم كريم احمد | Data Cleaning & Preprocessing (Excel & Python) |
+| محمود محمد صلاح احمد | Database Querying & Analysis (SQL) |
+| سلمى حسام الدين فتحي سليمان | Tableau Dashboard Design & Visualization |
+| احمد شعبان محمد | Exploratory Data Analysis (Python) & KPI Tracking |
+| ايه فضل | Final Report & Presentation |
 
 ## KPIs
-- Total Revenue (BRL) and Number of Orders
-- Average Order Value
-- Late Delivery Rate (%) and Average Delivery Days
-- Average Review Score
-- Freight Cost as % of Product Price
-- Repeat Customer Rate (%)
+- Total Revenue & Total Profit
+- Profit Margin (%)
+- Total Orders & Quantity Sold
+- Average Order Value (AOV)
+- Top Performing Product Categories & Sub-Categories
+- Sales Performance by Branch / Region & Payment Method
 
 ## Instructor
-Adham Osama 
+Adham Osama
+
 ## Project Files
-- Power BI dashboard (.pbix): https://drive.google.com/drive/folders/1tnbPPsgNcI1wAN8ZZNZbMBG5REAXDFMs?usp=sharing
-- Final report and presentation: https://drive.google.com/drive/folders/1tnbPPsgNcI1wAN8ZZNZbMBG5REAXDFMs?usp=sharing
-- Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+- **All Project Files (Power BI, Tableau, Excel, SQL, Python & Presentation):** []
+- **Dataset:**  https://github.com/ryanariefe/RYStore-Retail-Dataset
